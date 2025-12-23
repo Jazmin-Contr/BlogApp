@@ -8995,11 +8995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\BlogApp.csproj",
+      "projectUniqueName": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\BlogApp.csproj",
       "projectName": "BlogApp",
-      "projectPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\BlogApp.csproj",
+      "projectPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\BlogApp.csproj",
       "packagesPath": "C:\\Users\\loyol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\obj\\",
+      "outputPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\loyol\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -9108,7 +9108,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'System.IdentityModel.Tokens.Jwt' 7.0.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
+      "message": "El paquete \"System.IdentityModel.Tokens.Jwt\" 7.0.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-59j7-ghrg-fj52",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net8.0"

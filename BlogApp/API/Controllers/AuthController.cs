@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using BlogApp.Application.DTOs.Auth;
 using BlogApp.Application.Interfaces;
-using BlogApp.Domain.Exceptions;
+
 
 namespace BlogApp.API.Controllers;
 

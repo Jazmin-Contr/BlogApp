@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\BlogApp.csproj": {}
+    "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\BlogApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\BlogApp.csproj": {
+    "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\BlogApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\BlogApp.csproj",
+        "projectUniqueName": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\BlogApp.csproj",
         "projectName": "BlogApp",
-        "projectPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\BlogApp.csproj",
+        "projectPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\BlogApp.csproj",
         "packagesPath": "C:\\Users\\loyol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\BlogApp\\obj\\",
+        "outputPath": "C:\\Users\\loyol\\OneDrive\\Escritorio\\BlogApp\\blogapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\loyol\\AppData\\Roaming\\NuGet\\NuGet.Config"
